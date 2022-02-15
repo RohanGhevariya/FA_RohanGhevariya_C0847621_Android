@@ -6,4 +6,15 @@
     android:layout_height="match_parent"
     tools:context=".Favorite_Places">
 
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/favoriteplacesRV"
+        android:layout_width="409dp"
+        android:layout_height="729dp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" >
+
+    </androidx.recyclerview.widget.RecyclerView>
 </androidx.constraintlayout.widget.ConstraintLayout>

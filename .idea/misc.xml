@@ -5,7 +5,9 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_gps.xml" value="0.1" />
         <entry key="app/src/main/res/drawable/white_border.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_favorite_places.xml" value="0.11626139817629179" />
         <entry key="app/src/main/res/layout/activity_maps.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/places_view.xml" value="0.1" />
       </map>
     </option>
   </component>
